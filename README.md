@@ -1,5 +1,5 @@
 # Cloud Academy Webinars
-## An Overview of Machine Lerning Pipelines
+## An Overview of Machine Learning Pipelines
 
 ## Speaker info
 This webinar is held by Andrea Giussani, Data Scientist at Cloud Academy.
